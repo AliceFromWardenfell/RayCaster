@@ -1,7 +1,7 @@
 #ifndef CUB3D_H
 # define CUB3D_H
 
-# include "mlx_linux/mlx.h"
+# include "../mlx_linux/mlx.h"
 # include <math.h>
 # include <stdlib.h>
 # include <fcntl.h>

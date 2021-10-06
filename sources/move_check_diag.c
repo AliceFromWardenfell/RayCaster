@@ -22,6 +22,7 @@ int	four_ifs_for_check_diag(t_d *d, int x, int y, int lever)
 			&& d->level_map[y * d->map_lenght + x + 1] > 0
 			&& d->level_map[d->map_lenght * (d->y_diag - 1) + d->x_diag] > 0
 			&& d->level_map[d->y_diag * d->map_lenght + d->x_diag - 1] > 0);
+	return (0);
 }
 
 int	check_diag_w(t_d *d, int x, int y)

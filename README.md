@@ -1,4 +1,4 @@
-# RayCaster
+# Cub3D
 
 \**This project is not finished yet, therefore available only on Linux (also check mlx_linux/[README.md](https://github.com/AliceFromWardenfell/ray_caster/tree/prototype/mlx_linux#readme) for dependencies)*  
 
